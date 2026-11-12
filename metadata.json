@@ -1,0 +1,6 @@
+{
+  "name": "FluxClip Studio",
+  "description": "Material 3 Android UI for FluxClip video repurposing studio with OpenShorts pipeline triggers, vertical 9:16 clip preview, and export workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
